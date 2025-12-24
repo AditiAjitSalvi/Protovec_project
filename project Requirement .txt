@@ -1,2 +1,2 @@
-1. Create model that genret new squqnce of command 
+1. Create model that generet new sequence of command 
 2.use multiple squnce for traing this model
