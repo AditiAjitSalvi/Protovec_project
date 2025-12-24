@@ -1,2 +1,5 @@
 1. Create model that generet new sequence of command 
-2.use multiple squnce for traing this model
+2.use multiple sequences for training this model
+super boss who handles all the feedback files of 4 agents
+that feedback file stored in superboss which is useful for different types of plants
+In worker agent :- one agent and multiple workers
