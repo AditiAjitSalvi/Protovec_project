@@ -1,0 +1,2 @@
+1. Create model that genret new squqnce of command 
+2.use multiple squnce for traing this model
